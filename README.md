@@ -1,4 +1,4 @@
-# Example of an Azure Function using Entity Frame
+# Example of an Azure Function using Entity Framework
 
 I had some trouble finding an example of how to use an Azure function which used entity framework, thus I created it. The example is a Http triggered Azure function which returns all customers from the AdventureWorks database.
 
